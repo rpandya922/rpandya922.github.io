@@ -5,6 +5,7 @@ $(document).ready(function() {
     $("main").toggleClass("move-to-left");
     $(".sidebar-item").toggleClass("active");
   }
+  toggleSidebar();
 
   function addHover() {
     $(".bar").addClass("hover");
@@ -27,21 +28,19 @@ $(document).ready(function() {
   });
 
   function showHome() {
-      $(".homeScreen").addClass("show");
+      $(".screen.text").removeClass("hide");
   }
-
   function hideHome() {
-    $(".homeScreen").removeClass("show");
+    $(".screen.text").addClass("hide");
   }
 
   function showAbout() {
-    $(".aboutScreen").addClass("show");
-    $(".aboutText").addClass("show");
+    $(".screen.about").addClass("show");
+    // $(".aboutText").addClass("show");
   }
-
   function hideAbout() {
-    $(".aboutScreen").removeClass("show");
-    $(".aboutText").removeClass("show");
+    $(".screen.about").removeClass("show");
+    // $(".aboutText").removeClass("show");
   }
 
   $(".sidebar-anchor.about").on("click tap", function() {
