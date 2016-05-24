@@ -26,6 +26,15 @@ $(document).ready(function() {
     toggleSidebar();
   });
 
+  function showAbout() {
+    $(".aboutScreen").addClass("show");
+    $("aboutText").addClass("show");
+  }
+
+  $(".sidebar-anchor.about").on("click tap", function() {
+    showAbout();
+  });
+
   $(document).keyup(function(e) {
     if (e.keyCode === 27) {
       toggleSidebar();
