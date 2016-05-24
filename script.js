@@ -26,14 +26,33 @@ $(document).ready(function() {
     toggleSidebar();
   });
 
+  function showHome() {
+      $(".homeScreen").addClass("show");
+  }
+
+  function hideHome() {
+    $(".homeScreen").removeClass("show");
+  }
+
   function showAbout() {
     $(".aboutScreen").addClass("show");
-    $("aboutText").addClass("show");
+    $(".aboutText").addClass("show");
+  }
+
+  function hideAbout() {
+    $(".aboutScreen").removeClass("show");
+    $(".aboutText").removeClass("show");
   }
 
   $(".sidebar-anchor.about").on("click tap", function() {
     showAbout();
+    hideHome();
   });
+
+  $(".sidebar-anchor.homep").on("click tap", function() {
+    showHome();
+    hideAbout();
+  })
 
   $(document).keyup(function(e) {
     if (e.keyCode === 27) {
