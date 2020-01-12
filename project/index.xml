@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Ravi Pandya</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Line-Following Car</title>
+      <link>/project/ee-192/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ee-192/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustness Analysis of Nonlinear Controllers</title>
+      <link>/project/ee-222/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ee-222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checkers-Playing Robot</title>
+      <link>/project/ee-106a/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/project/ee-106a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

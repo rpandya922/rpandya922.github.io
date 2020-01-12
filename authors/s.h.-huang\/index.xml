@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.H. Huang\* | Ravi Pandya</title>
+    <link>/authors/s.h.-huang%5C/</link>
+      <atom:link href="/authors/s.h.-huang%5C/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.H. Huang\*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.H. Huang\*</title>
+      <link>/authors/s.h.-huang%5C/</link>
+    </image>
+    
+    <item>
+      <title>Nonverbal Robot Feedback for Human Teachers</title>
+      <link>/publication/corl-feedback/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/corl-feedback/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

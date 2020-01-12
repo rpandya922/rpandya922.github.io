@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bestick | Ravi Pandya</title>
+    <link>/authors/a.-bestick/</link>
+      <atom:link href="/authors/a.-bestick/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Bestick</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A. Bestick</title>
+      <link>/authors/a.-bestick/</link>
+    </image>
+    
+    <item>
+      <title>Learning Ergonomic Preferences for Handovers</title>
+      <link>/publication/icra-ergonomics/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-ergonomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

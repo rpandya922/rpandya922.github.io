@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.D. Dragan | Ravi Pandya</title>
+    <link>/authors/a.d.-dragan/</link>
+      <atom:link href="/authors/a.d.-dragan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A.D. Dragan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>A.D. Dragan</title>
+      <link>/authors/a.d.-dragan/</link>
+    </image>
+    
+    <item>
+      <title>Nonverbal Robot Feedback for Human Teachers</title>
+      <link>/publication/corl-feedback/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/corl-feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-AI Learning Performance in Multi-Armed Bandits</title>
+      <link>/publication/aies-bandits/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aies-bandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Ergonomic Preferences for Handovers</title>
+      <link>/publication/icra-ergonomics/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-ergonomics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

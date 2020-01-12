@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Hadfield-Menell | Ravi Pandya</title>
+    <link>/authors/d.-hadfield-menell/</link>
+      <atom:link href="/authors/d.-hadfield-menell/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Hadfield-Menell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>D. Hadfield-Menell</title>
+      <link>/authors/d.-hadfield-menell/</link>
+    </image>
+    
+    <item>
+      <title>Human-AI Learning Performance in Multi-Armed Bandits</title>
+      <link>/publication/aies-bandits/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aies-bandits/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

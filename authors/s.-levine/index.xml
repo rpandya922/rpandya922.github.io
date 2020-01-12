@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Levine | Ravi Pandya</title>
+    <link>/authors/s.-levine/</link>
+      <atom:link href="/authors/s.-levine/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Levine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S. Levine</title>
+      <link>/authors/s.-levine/</link>
+    </image>
+    
+    <item>
+      <title>Learning Image-Conditioned Dynamics Models for Under-actuated Legged Millirobots</title>
+      <link>/publication/iros-dynamics/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/iros-dynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

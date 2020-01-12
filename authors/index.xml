@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ravi Pandya</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Ravi Pandya\***</title>
+      <link>/authors/ravi-pandya%5C/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ravi-pandya%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A.D. Dragan</title>
+      <link>/authors/a.d.-dragan/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/a.d.-dragan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Huang\*</title>
+      <link>/authors/i.-huang%5C/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/i.-huang%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.H. Huang\*</title>
+      <link>/authors/s.h.-huang%5C/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.h.-huang%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Ravi Pandya**</title>
+      <link>/authors/ravi-pandya/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ravi-pandya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Hadfield-Menell</title>
+      <link>/authors/d.-hadfield-menell/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/d.-hadfield-menell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S.H. Huang</title>
+      <link>/authors/s.h.-huang/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s.h.-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Nagabandi</title>
+      <link>/authors/a.-nagabandi/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-nagabandi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Kahn</title>
+      <link>/authors/g.-kahn/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-kahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G. Yang</title>
+      <link>/authors/g.-yang/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/g.-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R.S. Fearing</title>
+      <link>/authors/r.s.-fearing/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/r.s.-fearing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Levine</title>
+      <link>/authors/s.-levine/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/s.-levine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Asmar</title>
+      <link>/authors/t.-asmar/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/t.-asmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. Bestick</title>
+      <link>/authors/a.-bestick/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/a.-bestick/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. Bajcsy</title>
+      <link>/authors/r.-bajcsy/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/r.-bajcsy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a data scientist working at the Global AI Accelerator (GAIA) within Ericsson. I currently work on applying machine learning to problems within telecommunications, such as incorporating casual inference and reinforcement learning in predicting the performance of networks.&lt;/p&gt;
+&lt;p&gt;Previously, I had the privilege of doing research in multiple robotics labs at Berkeley: &lt;a href=&#34;http://hart.berkeley.edu&#34;&gt;Human-Assistive Robotic Technologies Lab&lt;/a&gt; under Prof. Ruzena Bajcsy, &lt;a href=&#34;https://people.eecs.berkeley.edu/~ronf/Biomimetics.html&#34;&gt;Biomimetic Millisystems Lab&lt;/a&gt; under Prof. Ron Fearing, and the &lt;a href=&#34;http://interact.berkeley.edu&#34;&gt;InterACT Lab&lt;/a&gt; under Prof. Anca Dragan.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
