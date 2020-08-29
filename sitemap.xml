@@ -167,6 +167,11 @@
   </url>
   
   <url>
+    <loc>/eevee/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/games/</loc>
     <priority>0</priority>
   </url>
