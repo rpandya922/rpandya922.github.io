@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Safe and Efficient Exploration of Human Models During Human-Robot Interaction</title>
+      <link>/publication/iros-safe/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iros-safe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nonverbal Robot Feedback for Human Teachers</title>
@@ -33,6 +41,14 @@
       <link>/publication/iros-dynamics/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/publication/iros-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Human Ergonomic Preferences for Handovers</title>
+      <link>/publication/icra-ergonomics/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-ergonomics/</guid>
       <description></description>
     </item>
     

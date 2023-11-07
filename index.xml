@@ -5,12 +5,36 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Pandya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 15:00:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>Ravi Pandya</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Robust Safe Control with Multi-Modal Uncertainty</title>
+      <link>/publication/lcss-robust/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/lcss-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe and Efficient Efficient Exploration of Human Models During Human-Robot Interaction</title>
+      <link>/talk/iros-safe/</link>
+      <pubDate>Mon, 31 Oct 2022 15:00:00 -0800</pubDate>
+      <guid>/talk/iros-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe and Efficient Exploration of Human Models During Human-Robot Interaction</title>
+      <link>/publication/iros-safe/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iros-safe/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nonverbal Robot Feedback for Human Teachers</title>
@@ -82,21 +106,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/books/</guid>
       <description>&lt;p&gt;[does listening to an audiobook count as reading? I say yes]&lt;/p&gt;
-&lt;h1 id=&#34;books-im-currently-reading&#34;&gt;Books I&amp;rsquo;m currently reading&lt;/h1&gt;
+&lt;h3 id=&#34;books-im-currently-reading&#34;&gt;Books I&amp;rsquo;m currently reading&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Axiom&amp;rsquo;s End&lt;/strong&gt; - Lindsay Ellis&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dune&lt;/strong&gt; - Frank Herbert&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Eight&lt;/strong&gt; - Katherine Neville&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Norwegian Wood&lt;/strong&gt; - Haruki Murakami&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;booksseries-ive-read-recently&#34;&gt;Books/Series I&amp;rsquo;ve read recently&lt;/h1&gt;
+&lt;h3 id=&#34;booksseries-ive-read-recently&#34;&gt;Books/Series I&amp;rsquo;ve read recently&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Between the World and Me&lt;/strong&gt; - Ta-Nehisi Coates&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Born a Crime&lt;/strong&gt; - Trevor Noah&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;A Beautifully Foolish Endeavor&lt;/strong&gt; - Hank Green&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Mistborn (The Final Empire, The Well of Ascension, The Hero of Ages)&lt;/strong&gt; - Brandon Sanderson&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Kingkiller Chronicles (The Name of the Wind &amp;amp; The Wise Man&amp;rsquo;s Fear)&lt;/strong&gt; - Patrick Rothfuss&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The Rook Files (The Rook &amp;amp; Stiletto)&lt;/strong&gt; - Daniel O&amp;rsquo;Malley&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sphere&lt;/strong&gt; - Michael Crichton&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -119,23 +137,21 @@
       <link>/games/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/games/</guid>
-      <description>&lt;h1 id=&#34;games-ive-played-recently&#34;&gt;Games I&amp;rsquo;ve played recently&lt;/h1&gt;
+      <description>&lt;h3 id=&#34;games-ive-played-recently&#34;&gt;Games I&amp;rsquo;ve played recently&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Persona 5 Royal&lt;/li&gt;
-&lt;li&gt;Pokemon Sword&lt;/li&gt;
-&lt;li&gt;Fire Emblem: Three Houses&lt;/li&gt;
+&lt;li&gt;The Legend of Zelda: Tears of the Kingdon&lt;/li&gt;
+&lt;li&gt;Super Mario Wonder&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;favorites&#34;&gt;Favorites&lt;/h1&gt;
+&lt;h3 id=&#34;some-favorites&#34;&gt;Some Favorites&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Super Smash Bros Ultimate&lt;/li&gt;
 &lt;li&gt;The Legend of Zelda: Breath of the Wild&lt;/li&gt;
 &lt;li&gt;Celeste&lt;/li&gt;
+&lt;li&gt;Persona 5 Royal&lt;/li&gt;
 &lt;li&gt;Super Mario Odyssey&lt;/li&gt;
-&lt;li&gt;Hollow Knight&lt;/li&gt;
 &lt;li&gt;Donkey Kong Country: Tropical Freeze&lt;/li&gt;
 &lt;li&gt;Pokemon Emerald&lt;/li&gt;
 &lt;li&gt;Pokemon Black/White&lt;/li&gt;
-&lt;li&gt;Super Mario Galaxy/Super Mario Galaxy 2&lt;/li&gt;
+&lt;li&gt;Super Mario Galaxy&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -145,25 +161,21 @@
       <link>/shows/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/shows/</guid>
-      <description>&lt;h1 id=&#34;shows-ive-watched-recently&#34;&gt;Shows I&amp;rsquo;ve watched recently&lt;/h1&gt;
+      <description>&lt;h3 id=&#34;shows-ive-watched-recently&#34;&gt;Shows I&amp;rsquo;ve watched recently&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Avatar and Korra but again&lt;/li&gt;
+&lt;li&gt;Jujutsu Kaisen&lt;/li&gt;
+&lt;li&gt;Loki&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;favorites&#34;&gt;Favorites&lt;/h1&gt;
+&lt;h3 id=&#34;some-favorites&#34;&gt;Some Favorites&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;Mob Psycho 100&lt;/li&gt;
 &lt;li&gt;Avatar: The Last Airbender&lt;/li&gt;
 &lt;li&gt;The Legend of Korra&lt;/li&gt;
-&lt;li&gt;Chihayafuru&lt;/li&gt;
 &lt;li&gt;Breaking Bad&lt;/li&gt;
 &lt;li&gt;Better Call Saul&lt;/li&gt;
 &lt;li&gt;Fullmetal Alchemist: Brotherhood&lt;/li&gt;
-&lt;li&gt;Mob Psycho 100&lt;/li&gt;
 &lt;li&gt;Terrace House&lt;/li&gt;
-&lt;li&gt;Kaguya-Sama&lt;/li&gt;
-&lt;li&gt;Psycho-Pass&lt;/li&gt;
 &lt;li&gt;Steins;gate&lt;/li&gt;
-&lt;li&gt;Steins;gate 0&lt;/li&gt;
-&lt;li&gt;Demon Slayer&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
