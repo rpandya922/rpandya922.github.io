@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/ravi-pandya/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -53,6 +48,46 @@
   </url>
   
   <url>
+    <loc>/authors/h.-admoni/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/m.-zhao/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icra-multiagent/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/r.-simmons/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/icra-towards-safe/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/y.-nakahira/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/z.-wang/</loc>
+    <lastmod>2023-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/acc-multimodal/</loc>
+    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2022-10-31T15:00:00-08:00</lastmod>
   </url>
@@ -75,11 +110,6 @@
   <url>
     <loc>/talk/corl-feedback/</loc>
     <lastmod>2019-11-01T15:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ravi-pandya%5C/</loc>
-    <lastmod>2019-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -209,6 +239,10 @@
   <url>
     <loc>/shows/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/insravi-pandya/ins/</loc>
   </url>
   
   <url>

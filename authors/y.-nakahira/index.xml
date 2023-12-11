@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Nakahira | Ravi Pandya</title>
+    <link>/authors/y.-nakahira/</link>
+      <atom:link href="/authors/y.-nakahira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Nakahira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>Y. Nakahira</title>
+      <link>/authors/y.-nakahira/</link>
+    </image>
+    
+    <item>
+      <title>Towards Proactive Safe Human-Robot Collaborations via Data-Efficient Conditional Behavior Prediction</title>
+      <link>/publication/icra-towards-safe/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-towards-safe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
