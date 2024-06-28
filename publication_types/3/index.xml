@@ -5,7 +5,7 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>3</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Robust Safe Control with Multi-Modal Uncertainty</title>
       <link>/publication/lcss-robust/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/lcss-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Safe Control for Human-Robot Interaction</title>
+      <link>/publication/acc-multimodal/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/acc-multimodal/</guid>
       <description></description>
     </item>
     
@@ -33,14 +41,6 @@
       <link>/publication/icra-towards-safe/</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>/publication/icra-towards-safe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Safe Control for Human-Robot Interaction</title>
-      <link>/publication/acc-multimodal/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/acc-multimodal/</guid>
       <description></description>
     </item>
     

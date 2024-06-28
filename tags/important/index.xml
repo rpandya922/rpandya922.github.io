@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>important | Ravi Pandya</title>
+    <link>/tags/important/</link>
+      <atom:link href="/tags/important/index.xml" rel="self" type="application/rss+xml" />
+    <description>important</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>important</title>
+      <link>/tags/important/</link>
+    </image>
+    
+    <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/cmu-lcs/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/cmu-lcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/thesis-proposal/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/thesis-proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safely Influencing Humans in Human-Robot Interaction</title>
+      <link>/talk/speaking-qual/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/speaking-qual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonverbal Robot Feedback for Human Teachers</title>
+      <link>/talk/corl-feedback/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/corl-feedback/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

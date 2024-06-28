@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 15:00:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/cmu-lcs/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/cmu-lcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/thesis-proposal/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/thesis-proposal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safely Influencing Humans in Human-Robot Interaction</title>
+      <link>/talk/speaking-qual/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/speaking-qual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Safe and Efficient Efficient Exploration of Human Models During Human-Robot Interaction</title>
       <link>/talk/iros-safe/</link>
-      <pubDate>Mon, 31 Oct 2022 15:00:00 -0800</pubDate>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/talk/iros-safe/</guid>
       <description></description>
     </item>
@@ -23,7 +47,7 @@
     <item>
       <title>Nonverbal Robot Feedback for Human Teachers</title>
       <link>/talk/corl-feedback/</link>
-      <pubDate>Fri, 01 Nov 2019 15:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/talk/corl-feedback/</guid>
       <description></description>
     </item>

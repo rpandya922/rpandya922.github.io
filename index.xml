@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Pandya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>Ravi Pandya</title>
@@ -15,8 +15,32 @@
     <item>
       <title>Robust Safe Control with Multi-Modal Uncertainty</title>
       <link>/publication/lcss-robust/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>/publication/lcss-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Safe Control for Human-Robot Interaction</title>
+      <link>/publication/acc-multimodal/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/acc-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/cmu-lcs/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/cmu-lcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Influence-Aware Safe Human-Robot Interaction</title>
+      <link>/talk/thesis-proposal/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>/talk/thesis-proposal/</guid>
       <description></description>
     </item>
     
@@ -37,17 +61,17 @@
     </item>
     
     <item>
-      <title>Multimodal Safe Control for Human-Robot Interaction</title>
-      <link>/publication/acc-multimodal/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/acc-multimodal/</guid>
+      <title>Safely Influencing Humans in Human-Robot Interaction</title>
+      <link>/talk/speaking-qual/</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/talk/speaking-qual/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Safe and Efficient Efficient Exploration of Human Models During Human-Robot Interaction</title>
       <link>/talk/iros-safe/</link>
-      <pubDate>Mon, 31 Oct 2022 15:00:00 -0800</pubDate>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>/talk/iros-safe/</guid>
       <description></description>
     </item>
@@ -63,7 +87,7 @@
     <item>
       <title>Nonverbal Robot Feedback for Human Teachers</title>
       <link>/talk/corl-feedback/</link>
-      <pubDate>Fri, 01 Nov 2019 15:00:00 -0800</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/talk/corl-feedback/</guid>
       <description></description>
     </item>
@@ -122,6 +146,31 @@
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/project/ee-106a/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>/news/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      <guid>/news/</guid>
+      <description>
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; I attended &lt;a href=&#34;https://2024.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2024&lt;/a&gt; to present our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt; multi-agent strategy explanations&lt;/a&gt; and on &lt;a href=&#34;https://arxiv.org/abs/2311.11893&#34; target=&#34;_blank&#34;&gt;model-based conditional behavior prediction&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; I gave a &lt;a href=&#34;https://youtu.be/-NKABCGJ-cQ?si=QTw5e8FWBeEapv4y&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt; on some of my recent work in the &lt;a href=&#34;https://sites.google.com/andrew.cmu.edu/cmu-lcs/home&#34; target=&#34;_blank&#34;&gt;CMU Learning and Control Seminar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Apr 2024]&lt;/strong&gt; I passed my PhD Thesis Proposal!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt; multi-agent strategy explanations&lt;/a&gt; was accepted to ICRA 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11893&#34; target=&#34;_blank&#34;&gt;model-based conditional behavior prediction&lt;/a&gt; was accepted to ICRA 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on multimodal safe control was accepted to ACC 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Apr 2023]&lt;/strong&gt; I passed my PhD Speaking Qualifier!&lt;/p&gt;
+
+</description>
     </item>
     
     <item>

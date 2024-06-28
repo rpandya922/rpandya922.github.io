@@ -4,47 +4,77 @@
   
   <url>
     <loc>/publication_types/3/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/c.-liu/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/l.-ma/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/lcss-robust/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/t.-wei/</loc>
-    <lastmod>2023-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/acc-multimodal/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/important/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cmu-lcs/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/thesis-proposal/</loc>
+    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,22 +113,17 @@
   </url>
   
   <url>
-    <loc>/publication/acc-multimodal/</loc>
-    <lastmod>2023-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2022-10-31T15:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/iros-safe/</loc>
-    <lastmod>2022-10-31T15:00:00-08:00</lastmod>
+    <loc>/talk/speaking-qual/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/1/</loc>
+    <lastmod>2022-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/iros-safe/</loc>
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,7 +134,7 @@
   
   <url>
     <loc>/talk/corl-feedback/</loc>
-    <lastmod>2019-11-01T15:00:00-08:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -218,6 +243,11 @@
   </url>
   
   <url>
+    <loc>/news/</loc>
+    <lastmod>2017-12-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
   </url>
   
@@ -251,10 +281,6 @@
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
   </url>
   
 </urlset>
