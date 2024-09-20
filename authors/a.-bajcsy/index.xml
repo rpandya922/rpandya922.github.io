@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Bajcsy | Ravi Pandya</title>
+    <link>/authors/a.-bajcsy/</link>
+      <atom:link href="/authors/a.-bajcsy/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Bajcsy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>A. Bajcsy</title>
+      <link>/authors/a.-bajcsy/</link>
+    </image>
+    
+    <item>
+      <title>Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games</title>
+      <link>/publication/icra-slide/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-slide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

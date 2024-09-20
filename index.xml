@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Pandya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>Ravi Pandya</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games</title>
+      <link>/publication/icra-slide/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-slide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust Safe Control with Multi-Modal Uncertainty</title>
       <link>/publication/lcss-robust/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
       <guid>/publication/lcss-robust/</guid>
       <description></description>
     </item>
@@ -162,13 +170,20 @@
 
 
 
-&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; I attended &lt;a href=&#34;https://2024.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2024&lt;/a&gt; to present our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt; multi-agent strategy explanations&lt;/a&gt; and on &lt;a href=&#34;https://arxiv.org/abs/2311.11893&#34; target=&#34;_blank&#34;&gt;model-based conditional behavior prediction&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[July 2024]&lt;/strong&gt; I attended the &lt;a href=&#34;https://acc2024.a2c2.org/&#34; target=&#34;_blank&#34;&gt;American Control Conference (ACC) 2024&lt;/a&gt; in Toronto to present our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11898&#34; target=&#34;_blank&#34;&gt;multimodal safe control for HRI&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; I attended &lt;a href=&#34;https://2024.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2024&lt;/a&gt; in Yokohama to present our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt; multi-agent strategy explanations&lt;/a&gt; and on &lt;a href=&#34;https://arxiv.org/abs/2311.11893&#34; target=&#34;_blank&#34;&gt;model-based conditional behavior prediction&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[May 2024]&lt;/strong&gt; I gave a &lt;a href=&#34;https://youtu.be/-NKABCGJ-cQ?si=QTw5e8FWBeEapv4y&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt; on some of my recent work in the &lt;a href=&#34;https://sites.google.com/andrew.cmu.edu/cmu-lcs/home&#34; target=&#34;_blank&#34;&gt;CMU Learning and Control Seminar&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr 2024]&lt;/strong&gt; I passed my PhD Thesis Proposal!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt; multi-agent strategy explanations&lt;/a&gt; was accepted to ICRA 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11955&#34; target=&#34;_blank&#34;&gt;multi-agent strategy explanations&lt;/a&gt; was accepted to ICRA 2024!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11893&#34; target=&#34;_blank&#34;&gt;model-based conditional behavior prediction&lt;/a&gt; was accepted to ICRA 2024!&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on multimodal safe control was accepted to ACC 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jan 2024]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11898&#34; target=&#34;_blank&#34;&gt;multimodal safe control for HRI&lt;/a&gt; was accepted to ACC 2024!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Apr 2023]&lt;/strong&gt; I passed my PhD Speaking Qualifier!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 2022]&lt;/strong&gt; I attended &lt;a href=&#34;https://iros2022.org/&#34; target=&#34;_blank&#34;&gt;IROS 2022&lt;/a&gt; in Kyoto to present our work on &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/9981085&#34; target=&#34;_blank&#34;&gt;safe control and model adaptation for HRI&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Jun 2022]&lt;/strong&gt; Our work on safe control and model adaptation for HRI was accepted to IROS 2022!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Sep 2020]&lt;/strong&gt; I started my PhD at the Robotics Institute at CMU!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2020]&lt;/strong&gt; I accepted my offer to go to grad school at Carnegie Mellon University!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Oct 2019]&lt;/strong&gt; I attended &lt;a href=&#34;https://sites.google.com/robot-learning.org/corl2019&#34; target=&#34;_blank&#34;&gt;CoRL 2019&lt;/a&gt; in Osaka to present our work on &lt;a href=&#34;https://arxiv.org/abs/1911.02320&#34; target=&#34;_blank&#34;&gt;nonverbal feedback for human teachers&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[May 2019]&lt;/strong&gt; I graduated with honors from Berkeley with a BS in EECS!&lt;/p&gt;
 
 </description>
     </item>
