@@ -159,7 +159,7 @@
     <item>
       <title>News</title>
       <link>/news/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/news/</guid>
       <description>
 
@@ -213,10 +213,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/eevee/</guid>
       <description>&lt;h1 id=&#34;follow-eevee-on-instagramhttpswwwinstagramcomeeveeindoors&#34;&gt;Follow Eevee on &lt;a href=&#34;https://www.instagram.com/eeveeindoors&#34;&gt;Instagram&lt;/a&gt;!&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;eevee1.jpg&#34; alt=&#34;Eevee&#34;&gt;
-&lt;img src=&#34;eevee2.jpg&#34; alt=&#34;Eevee&#34;&gt;
-&lt;img src=&#34;eevee3.jpg&#34; alt=&#34;Eevee&#34;&gt;
-&lt;img src=&#34;eevee4.jpg&#34; alt=&#34;Eevee&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/eevee/eevee1.jpg&#34; alt=&#34;Eevee&#34;&gt;
+&lt;img src=&#34;/eevee/eevee2.jpg&#34; alt=&#34;Eevee&#34;&gt;
+&lt;img src=&#34;/eevee/eevee3.jpg&#34; alt=&#34;Eevee&#34;&gt;
+&lt;img src=&#34;/eevee/eevee4.jpg&#34; alt=&#34;Eevee&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
