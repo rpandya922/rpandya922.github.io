@@ -1,38 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;*** | Ravi Pandya</title>
+    <title>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;** | Ravi Pandya</title>
     <link>/authors/insravi-pandya/ins/</link>
       <atom:link href="/authors/insravi-pandya/ins/index.xml" rel="self" type="application/rss+xml" />
-    <description>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;***</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <description>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
-      <title>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;***</title>
+      <title>**&lt;Ins&gt;Ravi Pandya&lt;/Ins&gt;**</title>
       <link>/authors/insravi-pandya/ins/</link>
     </image>
     
     <item>
-      <title>Multi-Agent Strategy Explanations for Human-Robot Collaboration</title>
-      <link>/publication/icra-multiagent/</link>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/icra-multiagent/</guid>
+      <title>A Unified Framework for Robots that Influence Humans over Long-Term Interaction</title>
+      <link>/publication/ijrr-influence/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ijrr-influence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Towards Proactive Safe Human-Robot Collaborations via Data-Efficient Conditional Behavior Prediction</title>
-      <link>/publication/icra-towards-safe/</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/icra-towards-safe/</guid>
+      <title>Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games</title>
+      <link>/publication/icra-slide/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-slide/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nonverbal Robot Feedback for Human Teachers</title>
-      <link>/publication/corl-feedback/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/corl-feedback/</guid>
+      <title>Robust Safe Control with Multi-Modal Uncertainty</title>
+      <link>/publication/lcss-robust/</link>
+      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/lcss-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Safe Control for Human-Robot Interaction</title>
+      <link>/publication/acc-multimodal/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/acc-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safe and Efficient Exploration of Human Models During Human-Robot Interaction</title>
+      <link>/publication/iros-safe/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/iros-safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-AI Learning Performance in Multi-Armed Bandits</title>
+      <link>/publication/aies-bandits/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/aies-bandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Image-Conditioned Dynamics Models for Under-actuated Legged Millirobots</title>
+      <link>/publication/iros-dynamics/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/iros-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Human Ergonomic Preferences for Handovers</title>
+      <link>/publication/icra-ergonomics/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/icra-ergonomics/</guid>
       <description></description>
     </item>
     

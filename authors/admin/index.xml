@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Pandya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright>
     <image>
       <url>/img/icon-32.png</url>
       <title>Ravi Pandya</title>
@@ -17,7 +17,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Ph.D. Candidate in the &lt;a href=&#34;https://www.ri.cmu.edu/&#34; target=&#34;_blank&#34;&gt;Robotics Institute&lt;/a&gt; at Carnegie Mellon University advised by Prof. &lt;a href=&#34;http://www.cs.cmu.edu/~cliu6/index.html&#34; target=&#34;_blank&#34;&gt;Changliu Liu&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.cs.cmu.edu/~abajcsy/&#34; target=&#34;_blank&#34;&gt;Andrea Bajcsy&lt;/a&gt;. I am grateful to be funded by the &lt;a href=&#34;https://www.nsfgrfp.org/&#34; target=&#34;_blank&#34;&gt;NSF Graduate Research Fellowship&lt;/a&gt;. My PhD thesis is on using data-driven methods (e.g. reinforcement learning, trajectory forecasting, LLMs) to enable robots to &lt;em&gt;safely&lt;/em&gt; interact with humans while accounting for the influence they have on peoples&amp;rsquo; actions and intentions.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Ph.D. Candidate in the &lt;a href=&#34;https://www.ri.cmu.edu/&#34; target=&#34;_blank&#34;&gt;Robotics Institute&lt;/a&gt; at Carnegie Mellon University advised by Prof. &lt;a href=&#34;http://icontrol.ri.cmu.edu/people/changliu.html&#34; target=&#34;_blank&#34;&gt;Changliu Liu&lt;/a&gt; and Prof. &lt;a href=&#34;https://www.cs.cmu.edu/~abajcsy/&#34; target=&#34;_blank&#34;&gt;Andrea Bajcsy&lt;/a&gt;. I am grateful to be funded by the &lt;a href=&#34;https://www.nsfgrfp.org/&#34; target=&#34;_blank&#34;&gt;NSF Graduate Research Fellowship&lt;/a&gt;. My PhD thesis is on using data-driven methods (e.g. reinforcement learning, trajectory forecasting, LLMs) to enable robots to &lt;em&gt;safely&lt;/em&gt; interact with humans while accounting for the influence they have on peoples&amp;rsquo; actions and intentions.&lt;/p&gt;
 &lt;p&gt;Prior to joining CMU, I worked as a Data Scientist at Ericsson where I used ML and multiagent reinforcement learning for optimizing radio networks. I also previously did research in human-robot interaction at UC Berkeley.&lt;/p&gt;
 &lt;!-- Previously, I was a data scientist at the Global AI Accelerator (GAIA) within &lt;a href=&#34;https://www.ericsson.com/en&#34; target=&#34;_blank&#34;&gt;Ericsson&lt;/a&gt;.
 

@@ -5,12 +5,20 @@
     <link>/publication_types/3/</link>
       <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 Ravi Pandya</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>3</title>
       <link>/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>A Unified Framework for Robots that Influence Humans over Long-Term Interaction</title>
+      <link>/publication/ijrr-influence/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ijrr-influence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games</title>
