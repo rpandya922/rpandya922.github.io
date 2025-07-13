@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/important/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/talking-robotics/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/talk/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-06-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/authors/insravi-pandya/ins/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,9 +42,6 @@
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/</loc>
-    <lastmod>2025-03-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2025-03-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/s.-parekh/</loc>
@@ -58,15 +70,6 @@
   </url><url>
     <loc>/publication/acc-multimodal/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/important/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/cmu-lcs/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>

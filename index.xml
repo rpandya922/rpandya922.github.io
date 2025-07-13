@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Ravi Pandya</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Wed, 04 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>Ravi Pandya</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Influence-Aware Safety for Human-Robot Interaction</title>
+      <link>/talk/talking-robotics/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/talk/talking-robotics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Unified Framework for Robots that Influence Humans over Long-Term Interaction</title>
@@ -178,6 +186,7 @@
 
 
 
+&lt;p&gt;&lt;strong&gt;[Jun 2025]&lt;/strong&gt; I gave a &lt;a href=&#34;https://youtu.be/rfLP_4KmiKM&#34; target=&#34;_blank&#34;&gt;talk&lt;/a&gt; on my PhD work at the &lt;a href=&#34;https://talking-robotics.github.io/talks/ravi_pandya/&#34; target=&#34;_blank&#34;&gt;Talking Robotics Seminar&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[May 2025]&lt;/strong&gt; I attended &lt;a href=&#34;https://2025.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2025&lt;/a&gt; in Atlanta to present our work on &lt;a href=&#34;https://arxiv.org/abs/2409.12153&#34; target=&#34;_blank&#34;&gt;safe influence&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jan 2025]&lt;/strong&gt; Our work on &lt;a href=&#34;https://arxiv.org/abs/2409.12153&#34; target=&#34;_blank&#34;&gt;safe influence&lt;/a&gt; was accepted to &lt;a href=&#34;https://2025.ieee-icra.org/&#34; target=&#34;_blank&#34;&gt;ICRA 2025&lt;/a&gt;, see you in Atlanta!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[Jul 2024]&lt;/strong&gt; I attended the &lt;a href=&#34;https://acc2024.a2c2.org/&#34; target=&#34;_blank&#34;&gt;American Control Conference (ACC) 2024&lt;/a&gt; in Toronto to present our work on &lt;a href=&#34;https://arxiv.org/abs/2311.11898&#34; target=&#34;_blank&#34;&gt;multimodal safe control for HRI&lt;/a&gt;!&lt;/p&gt;
