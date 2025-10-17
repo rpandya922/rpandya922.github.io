@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Bland | Ravi Pandya</title>
+    <link>/authors/m.-bland/</link>
+      <atom:link href="/authors/m.-bland/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Bland</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-32.png</url>
+      <title>M. Bland</title>
+      <link>/authors/m.-bland/</link>
+    </image>
+    
+    <item>
+      <title>From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails</title>
+      <link>/publication/iaseai-guardrail/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/iaseai-guardrail/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

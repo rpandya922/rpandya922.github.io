@@ -5,12 +5,20 @@
     <link>/authors/c.-liu/</link>
       <atom:link href="/authors/c.-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2025 Ravi Pandya</copyright><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-32.png</url>
       <title>C. Liu</title>
       <link>/authors/c.-liu/</link>
     </image>
+    
+    <item>
+      <title>From Refusal to Recovery: A Control-Theoretic Approach to Generative AI Guardrails</title>
+      <link>/publication/iaseai-guardrail/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/iaseai-guardrail/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Robots that Learn to Safely Influence via Prediction-Informed Reach-Avoid Dynamic Games</title>
